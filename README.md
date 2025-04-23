@@ -1,7 +1,7 @@
 # Hugo Event Theme
 
 This theme turns your event planned with
-[Sessionize](https://sessionize.com/) into a Hugo website.
+[Sessionize](https://sessionize.com/) into a modern, responsive Hugo website.
 
 ![Hugo Event Theme](https://github.com/medialesson/hugo-theme-event/raw/main/images/device-composition.png)
 
