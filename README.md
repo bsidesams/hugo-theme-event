@@ -3,7 +3,7 @@
 This theme turns your event planned with
 [Sessionize](https://sessionize.com/) into a Hugo website.
 
-![Hugo Event Theme](https://github.com/medialesson/hugo-theme-event/raw/add-screenshot-to-readme-np/images/device-composition.png)
+![Hugo Event Theme](https://github.com/medialesson/hugo-theme-event/raw/main/images/device-composition.png)
 
 It automatically
 creates various contents and offers the following features.
